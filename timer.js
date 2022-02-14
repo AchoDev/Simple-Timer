@@ -58,5 +58,5 @@ function reset()
     clearInterval(interval);
     isPaused = true;
     time = 0;
-    timer.innerHTML = "time: 0:00:00";
+    timer.innerHTML = "time: 00:00:00";
 }
